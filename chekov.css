@@ -10,14 +10,15 @@
     font-size: 14px;
     color: black;
     background-color: lightyellow;
+    transition: background-color 0.5s, color 0.5s;
 }
 
 .direction:hover {
     background-color: lightblue;
-    color: white;
+    color: brown;
 }
 .name{
-    color: aqua;
+    color:red;
     font-family: 'Courier New', Courier, monospace;
 }
 
