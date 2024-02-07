@@ -43,6 +43,9 @@
     padding: 15px;
     margin: 13px;
 }
+.table_header_col{
+    background-color: blue;
+}
 
 th{
     border: 2px solid;
@@ -60,6 +63,7 @@ td {
     height:50px;
 }
 
-tr:hover {background-color: chocolate;}
+tr:hover {background-color: rgba(210, 30, 102, 0.518);
+}
 
 
