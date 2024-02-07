@@ -66,4 +66,45 @@ td {
 tr:hover {background-color: rgba(210, 93, 30, 0.518);
 }
 
+.KHIRIN:hover {
+    font-size: medium;
+    color:rgb(105, 198, 255);
+    text-shadow:0 0 10px rgb(21, 0, 255);
+    border-style: groove;
+    border-radius: 6px;
+}
+.MERCHUTKINA:hover {
+    font-size: medium;
+    color:rgb(250, 0, 58);
+    text-shadow: 0 0 10px rgb(128, 128, 128);
+    border-style: groove ;
+    border-radius: 6px;
+}
+.SHIPUCHIN:hover{
+    font-size: medium;
+    color:rgb(146, 250, 0);
+    text-shadow: 0 0 10px rgb(128, 128, 128);
+    border-style: groove ;
+    border-radius: 6px;
+}
+
+    u1.navbar-horizontal {
+    list-style-type: none;
+    margin: 3;
+    padding: 3;
+    }
+    u1.navbar-horizontal li {
+        float:left;
+        color:rgb(50, 205, 156);
+        background-color: rgb(129, 61, 61);
+    }
+    u1.navbar-horizontal a {
+        display:block;
+        padding:8px;
+    }
+    u1.navbar-horizontal a:hover {
+        background-color: rgb(255, 240, 220);
+        color:rgb(15, 155, 10);
+    }
+
 
